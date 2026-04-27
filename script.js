@@ -2,11 +2,11 @@
  * Implements the problem of triangle calcuation
  */
 
-var INVALID_ARGUMENTS = 'The arguments were not valid';
-var NOT_A_TRIANGLE = 'Impossible to create a triangle with those sides';
-var EQUILATERAL = 'Equilateral triangle';
-var ISOSCELES = 'Isosceles triangle';
-var SCALENE = 'Scalene triangle';
+var INVALID_ARGUMENTS = "The arguments were not valid";
+var NOT_A_TRIANGLE = "Impossible to create a triangle with those sides";
+var EQUILATERAL = "Equilateral triangle";
+var ISOSCELES = "Isosceles triangle";
+var SCALENE = "Scalene triangle";
 
 /*
  * Given the three sides of a triangle calculates the type of the
